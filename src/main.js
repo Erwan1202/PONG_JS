@@ -1,10 +1,10 @@
 // src/main.js
 
-import { Scene } from './components/Scene.js';
-import { Player } from './components/Player.js';
-import { Ball } from './components/Ball.js';
-import { Controls } from './components/Controls.js';
-import { Score } from './components/Score.js';
+import { Scene } from './components/scene.js';
+import { Player } from './components/player.js';
+import { Ball } from './components/ball.js';
+import { Controls } from './components/controls.js';
+import { Score } from './components/score.js';
 
 // Initialize core components
 const scene = new Scene();
